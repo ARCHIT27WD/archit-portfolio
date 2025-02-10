@@ -1,6 +1,6 @@
 import React from 'react';
-import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
-import { AiFillMediumCircle, AiFillLinkedin } from 'react-icons/ai';
+import { FaGithub, FaTwitter } from 'react-icons/fa';
+import { AiFillLinkedin } from 'react-icons/ai';
 import { FiMail } from 'react-icons/fi';
 import { SiLeetcode } from 'react-icons/si';
 
