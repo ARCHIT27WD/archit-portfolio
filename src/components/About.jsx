@@ -33,7 +33,7 @@ const About = () => {
           <div className='sm:px-16 px-2'>
             <h2 className='text-4xl sm:text-5xl font-extrabold mt-2'>Introduction</h2>
             <p className='mt-3 mb-6 text-[17px] max-w-3xl leading-[30px]'>
-  👨‍💻 Hi, I'm Archit Gupta, an Engineering Student 🎓 with a passion for Data Analyst tools and also building both dynamic front-end interfaces and robust back-end systems. I specialize in full-stack development using the MEAN and MERN stacks 🚀, and I have a strong foundation in Data Analyst ,Data Structures & Algorithms (DSA) with C++ and efficient data handling using SQL.  
+  👨‍💻 Hi, I'm Archit1 Gupta, an Engineering Student 🎓 with a passion for Data Analyst tools and also building both dynamic front-end interfaces and robust back-end systems. I specialize in full-stack development using the MEAN and MERN stacks 🚀, and I have a strong foundation in Data Analyst ,Data Structures & Algorithms (DSA) with C++ and efficient data handling using SQL.  
 
   <br />  
   ✍️ Beyond coding, I'm deeply passionate about fitness 💪 and capturing moments through photography 📸. Whether it's building scalable applications or embracing an active lifestyle, I love pushing my limits and exploring new possibilities.  
